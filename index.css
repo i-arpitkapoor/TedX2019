@@ -193,3 +193,10 @@ h1{
 	padding-top: 7px;
 	font-size: 23px;
 }
+
+
+@media screen and (max-width: 600px) {
+  #logo{
+    padding-top: 300px;
+  }
+}
